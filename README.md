@@ -1,0 +1,1 @@
+# Successive-sums-calculator
